@@ -1,18 +1,21 @@
-## Welcome to GitHub Pages
+# Devyn White
 
-You can use the [editor on GitHub](https://github.com/devyn-white/devyn-white.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Writing
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Mixmag
 
-### Markdown
+- [Dweller is reclaiming techno's black heritage](https://mixmag.net/feature/dweller-festival-new-york-techno-black-heritage-review)
+- [Flume: "I'm happy to be called EDM... Call me whatever you want](https://mixmag.net/feature/flume-edm-interview)
+- [Go behind the scenes of 'Uncut Gems' soundtrack with Daniel Lopatin and Moog](https://mixmag.net/read/behind-the-scenes-of-uncut-gems-soundtrack-news/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Social Media
 
-```markdown
-Syntax highlighted code block
+### Harrison House
 
-# Header 1
-## Header 2
+
+### Oakland Promise
+
+
 ### Header 3
 
 - Bulleted
