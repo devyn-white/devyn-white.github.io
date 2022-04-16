@@ -22,6 +22,8 @@ _Devyn is an aspiring multimedia artist, currently living and working in Joshua 
 - [Cityfox Live returns to Brookklyn for second edition](https://mixmag.net/read/cityfox-live-returns-to-brooklyn-news/)
 - [The BPM Festival announces full line-up for 2020](https://mixmag.net/read/bpm-festival-full-line-up-2020-news/)
 - [AIAIAI announces new HD edition of TMA-2 headphones](https://mixmag.net/read/aiaiai-hd-tma-2-news)
+- [Apple's new Airpods Pro will reinvent your day-to-day life](https://mixmag.net/read/apple-airpods-reinvent-day-to-day-life-news)
+- [Prime Go is the innovative, battery-powered controller from Denon DJ](https://mixmag.net/read/prime-go-denon-dj-news)
 
 ## SOCIAL MEDIA
 
