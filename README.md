@@ -1,12 +1,12 @@
 # DEVYN WHITE
 
-## _ABOUT_
+## ABOUT
 
 _Devyn is a striving multimedia artist, currently living in Joshua Tree, California, with an interest in sound, technology, and media. She received her Bachelors degree from UC Berkeley in Political Economy with a focus on Inequality. She has written for California Management Review, The B-Side, and Mixmag, and created original Instagram content for Oakland Promise and Harrison House. These days, Devyn is focusing on learning the ins and outs of music software and hardware, completing Coursera's C++ Object-Oriented Fundamentals course and working on Coursera's Audio Signal Processing course while building circuits and practicing creative computing with an Arduino UNO._
 
-## _WRITING_
+## WRITING
 
-### Mixmag
+### _Mixmag_
 
 ### Long-form
 
@@ -25,15 +25,15 @@ _Devyn is a striving multimedia artist, currently living in Joshua Tree, Califor
 - [Apple's new Airpods Pro will reinvent your day-to-day life](https://mixmag.net/read/apple-airpods-reinvent-day-to-day-life-news)
 - [Prime Go is the innovative, battery-powered controller from Denon DJ](https://mixmag.net/read/prime-go-denon-dj-news)
 
-## _SOCIAL MEDIA_
+## SOCIAL MEDIA
 
-### Harrison House
+### _Harrison House_
 
 - [SoundCheckEarth Sponsors](https://www.instagram.com/p/CbtD2czvQco/)
 - [SoundCheckEarth Merchandise](https://www.instagram.com/p/Cbf56tOPAOQ/)
 - [SoundCheckEarth Offical Announcement](https://www.instagram.com/p/CaiT-qmvCAW/)
 
-### Oakland Promise
+### _Oakland Promise_
 
 - [AAPI Data Disaggregation](https://www.instagram.com/p/CPZZMRnBBni/)
 - [Women's History Month](https://www.instagram.com/p/CMxiDJThdvg/)
@@ -45,10 +45,10 @@ _Devyn is a striving multimedia artist, currently living in Joshua Tree, Califor
 - [10 Tips to Keep You Well](https://www.instagram.com/p/CEZyY3mhCYl/)
 - [10 Tips to Succeed in Online Learning](https://www.instagram.com/p/CEUvx-0FX0_/)
 
-## _ELECTRONICS_
+## ELECTRONICS
 
 _Coming soon..._
 
-## _SOUND_
+## SOUND
 
 _Coming soon..._
