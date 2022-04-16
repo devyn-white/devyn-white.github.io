@@ -1,6 +1,6 @@
 ## ABOUT
 
-_Devyn (b. 1996) is a striving multimedia artist, currently living in Joshua Tree, California, with an interest in sound, technology, and media. She received her Bachelors degree from UC Berkeley in Political Economy with a focus on Inequality. She has written for California Management Review, The B-Side, and Mixmag, and created original Instagram content for Oakland Promise and Harrison House. These days, Devyn is focusing on learning the ins and outs of music software and hardware, completing Coursera's C++ Object-Oriented Fundamentals course and working on Coursera's Audio Signal Processing course while building circuits and practicing creative computing with an Arduino UNO._
+_Devyn (b. 1996) is a striving multimedia artist, currently living in Joshua Tree, California, with an interest in sound, technology, and media. She received her Bachelors degree from UC Berkeley in Political Economy with a focus on Inequality. She has written for California Management Review, The B-Side, and Mixmag, and created original social media content for Oakland Promise and Harrison House. These days, Devyn is focusing on learning the ins and outs of music software and hardware, completing Coursera's C++ Object-Oriented Fundamentals course and working on Coursera's Audio Signal Processing course while building circuits and practicing creative computing with an Arduino UNO._
 
 ## WRITING
 
