@@ -1,10 +1,10 @@
-# Devyn White
+# DEVYN WHITE
 
-## ABOUT
+## _ABOUT_
 
 _Devyn is a striving multimedia artist, currently living in Joshua Tree, California, with an interest in sound, technology, and media. She received her Bachelors degree from UC Berkeley in Political Economy with a focus on Inequality. She has written for California Management Review, The B-Side, and Mixmag, and created original Instagram content for Oakland Promise and Harrison House. These days, Devyn is focusing on learning the ins and outs of music software and hardware, completing Coursera's C++ Object-Oriented Fundamentals course and working on Coursera's Audio Signal Processing course while building circuits and practicing creative computing with an Arduino UNO._
 
-## WRITING
+## _WRITING_
 
 ### Mixmag
 
@@ -25,7 +25,7 @@ _Devyn is a striving multimedia artist, currently living in Joshua Tree, Califor
 - [Apple's new Airpods Pro will reinvent your day-to-day life](https://mixmag.net/read/apple-airpods-reinvent-day-to-day-life-news)
 - [Prime Go is the innovative, battery-powered controller from Denon DJ](https://mixmag.net/read/prime-go-denon-dj-news)
 
-## SOCIAL MEDIA
+## _SOCIAL MEDIA_
 
 ### Harrison House
 
@@ -45,10 +45,10 @@ _Devyn is a striving multimedia artist, currently living in Joshua Tree, Califor
 - [10 Tips to Keep You Well](https://www.instagram.com/p/CEZyY3mhCYl/)
 - [10 Tips to Succeed in Online Learning](https://www.instagram.com/p/CEUvx-0FX0_/)
 
-## ELECTRONICS
+## _ELECTRONICS_
 
 _Coming soon..._
 
-## SOUND
+## _SOUND_
 
 _Coming soon..._
