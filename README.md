@@ -8,14 +8,14 @@ _Devyn is a striving multimedia artist, currently living in Joshua Tree, Califor
 
 ### Mixmag
 
-## Long-form
+### Long-form
 
 - [Dweller is reclaiming techno's black heritage](https://mixmag.net/feature/dweller-festival-new-york-techno-black-heritage-review)
 - [Flume: "I'm happy to be called EDM... Call me whatever you want](https://mixmag.net/feature/flume-edm-interview)
 - [Carnaval de Bahidorá is a hidden gem in Mexico's jungle](https://mixmag.net/feature/carnaval-de-bahidora-hidden-gem-mexico)
 - [Costa Rica's BPM Festival brought the heat and didn't disappoint](https://mixmag.net/feature/bpm-festival-didnt-disappoint)
 
-## News
+### News
 
 - [Go behind the scenes of 'Uncut Gems' soundtrack with Daniel Lopatin and Moog](https://mixmag.net/read/behind-the-scenes-of-uncut-gems-soundtrack-news/)
 - [Beats in space, Tim Sweeney's WNYU show, is under pressure](https://mixmag.net/read/beats-in-space-radio-show-under-pressure-news/)
