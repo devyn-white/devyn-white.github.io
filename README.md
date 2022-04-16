@@ -1,6 +1,6 @@
 # DEVYN WHITE
 
-![Devyn in the snow in Joshua Tree](/docs/assets/profile-picture.jpg)
+![Devyn in the snow in Joshua Tree](/docs/profile-picture.jpg)
 
 ## ABOUT
 
