@@ -1,40 +1,52 @@
 # Devyn White
 
-## Writing
+## ABOUT
+
+_Devyn is an aspiring multimedia artist with an interest in sound, technology, and media. She received her Bachelors degree from UC Berkeley in Political Economy with a focus on Inequality. She has written for California Management Review, The B-Side, and Mixmag, and created original Instagram content for Oakland Promise and Harrison House. These days, Devyn is focusing on learning the ins and outs of music software and hardware, completing Coursera's C++ Object-Oriented Fundamentals course and working on Coursera's Audio Signal Processing course while building circuits and practicing creative computing with Arduino's starter kit._
+
+## WRITING
 
 ### Mixmag
 
+## Long-form
+
 - [Dweller is reclaiming techno's black heritage](https://mixmag.net/feature/dweller-festival-new-york-techno-black-heritage-review)
 - [Flume: "I'm happy to be called EDM... Call me whatever you want](https://mixmag.net/feature/flume-edm-interview)
-- [Go behind the scenes of 'Uncut Gems' soundtrack with Daniel Lopatin and Moog](https://mixmag.net/read/behind-the-scenes-of-uncut-gems-soundtrack-news/)
+- [Carnaval de Bahidorá is a hidden gem in Mexico's jungle](https://mixmag.net/feature/carnaval-de-bahidora-hidden-gem-mexico)
+- [Costa Rica's BPM Festival brought the heat and didn't disappoint](https://mixmag.net/feature/bpm-festival-didnt-disappoint)
 
-## Social Media
+## News
+
+- [Go behind the scenes of 'Uncut Gems' soundtrack with Daniel Lopatin and Moog](https://mixmag.net/read/behind-the-scenes-of-uncut-gems-soundtrack-news/)
+- [Beats in space, Tim Sweeney's WNYU show, is under pressure](https://mixmag.net/read/beats-in-space-radio-show-under-pressure-news/)
+- [Cityfox Live returns to Brookklyn for second edition](https://mixmag.net/read/cityfox-live-returns-to-brooklyn-news/)
+- [The BPM Festival announces full line-up for 2020](https://mixmag.net/read/bpm-festival-full-line-up-2020-news/)
+- [AIAIAI announces new HD edition of TMA-2 headphones](https://mixmag.net/read/aiaiai-hd-tma-2-news)
+
+## SOCIAL MEDIA
 
 ### Harrison House
 
+- [SoundCheckEarth Sponsors](https://www.instagram.com/p/CbtD2czvQco/)
+- [SoundCheckEarth Merchandise](https://www.instagram.com/p/Cbf56tOPAOQ/)
+- [SoundCheckEarth Offical Announcement](https://www.instagram.com/p/CaiT-qmvCAW/)
 
 ### Oakland Promise
 
+- [AAPI Data Disaggregation](https://www.instagram.com/p/CPZZMRnBBni/)
+- [Women's History Month](https://www.instagram.com/p/CMxiDJThdvg/)
+- [Studying for STEM](https://www.instagram.com/p/CG2_MNMBESo/)
+- [Class Discussion Strategies](https://www.instagram.com/p/CGk3aDxBlHj/)
+- [Effective Note Taking](https://www.instagram.com/p/CGS_G5XhqZh/)
+- [Using Planners and Calendars](https://www.instagram.com/p/CGBcRFlBadE/)
+- [Devyn's Virtual Office Hours](https://www.instagram.com/p/CFILpKFhr2u/)
+- [10 Tips to Keep You Well](https://www.instagram.com/p/CEZyY3mhCYl/)
+- [10 Tips to Succeed in Online Learning](https://www.instagram.com/p/CEUvx-0FX0_/)
 
-### Header 3
+## ELECTRONICS
 
-- Bulleted
-- List
+_Coming soon..._
 
-1. Numbered
-2. List
+## SOUND
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/devyn-white/devyn-white.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+_Coming soon..._
