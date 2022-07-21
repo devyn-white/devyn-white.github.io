@@ -4,42 +4,37 @@ _Devyn (she/they; b. 1996) is a striving artist, currently living in Yucca Valle
 
 ## WRITING
 
-### _Mixmag_
-
-### Long-form
+###Creative
 
 - [Dweller is reclaiming techno's black heritage](https://mixmag.net/feature/dweller-festival-new-york-techno-black-heritage-review)
 - [Flume: "I'm happy to be called EDM... Call me whatever you want](https://mixmag.net/feature/flume-edm-interview)
+- [Divin' into disco](https://berkeleybside.com/divin-into-disco-in-2018/)
+
+###Copywriting
+
 - [Carnaval de Bahidorá is a hidden gem in Mexico's jungle](https://mixmag.net/feature/carnaval-de-bahidora-hidden-gem-mexico)
 - [Costa Rica's BPM Festival brought the heat and didn't disappoint](https://mixmag.net/feature/bpm-festival-didnt-disappoint)
-
-### News
-
 - [Go behind the scenes of 'Uncut Gems' soundtrack with Daniel Lopatin and Moog](https://mixmag.net/read/behind-the-scenes-of-uncut-gems-soundtrack-news/)
-- [Beats in space, Tim Sweeney's WNYU show, is under pressure](https://mixmag.net/read/beats-in-space-radio-show-under-pressure-news/)
 - [Cityfox Live returns to Brookklyn for second edition](https://mixmag.net/read/cityfox-live-returns-to-brooklyn-news/)
 - [The BPM Festival announces full line-up for 2020](https://mixmag.net/read/bpm-festival-full-line-up-2020-news/)
 - [AIAIAI announces new HD edition of TMA-2 headphones](https://mixmag.net/read/aiaiai-hd-tma-2-news)
 - [Apple's new Airpods Pro will reinvent your day-to-day life](https://mixmag.net/read/apple-airpods-reinvent-day-to-day-life-news)
 - [Prime Go is the innovative, battery-powered controller from Denon DJ](https://mixmag.net/read/prime-go-denon-dj-news)
 
-### _The B-Side_
-
-- [Divin' into disco](https://berkeleybside.com/divin-into-disco-in-2018/)
-
-### _California Management Review_
+###Technical
 
 - [Innovation in urban cities](https://cmr.berkeley.edu/2017/01/smart-cities/)
 
+
 ## SOCIAL MEDIA
 
-### _Harrison House_
+### Advertising
 
 - [SoundCheckEarth Sponsors](https://www.instagram.com/p/CbtD2czvQco/)
 - [SoundCheckEarth Merchandise](https://www.instagram.com/p/Cbf56tOPAOQ/)
 - [SoundCheckEarth Offical Announcement](https://www.instagram.com/p/CaiT-qmvCAW/)
 
-### _Oakland Promise_
+### Informative
 
 - [AAPI Data Disaggregation](https://www.instagram.com/p/CPZZMRnBBni/)
 - [Women's History Month](https://www.instagram.com/p/CMxiDJThdvg/)
@@ -50,6 +45,7 @@ _Devyn (she/they; b. 1996) is a striving artist, currently living in Yucca Valle
 - [Devyn's Virtual Office Hours](https://www.instagram.com/p/CFILpKFhr2u/)
 - [10 Tips to Keep You Well](https://www.instagram.com/p/CEZyY3mhCYl/)
 - [10 Tips to Succeed in Online Learning](https://www.instagram.com/p/CEUvx-0FX0_/)
+
 
 ## ELECTRONICS
 
@@ -65,6 +61,7 @@ _Devyn (she/they; b. 1996) is a striving artist, currently living in Yucca Valle
 [Arduino 5](https://user-images.githubusercontent.com/88110852/180320072-c1f0759e-5773-4e82-8e6f-bb334d20efe4.mov)
 
 [Arduino 6](https://user-images.githubusercontent.com/88110852/180320094-5334db9e-fd0c-482d-ac01-a57527ed755f.mov)
+
 
 ## SOUND
 
