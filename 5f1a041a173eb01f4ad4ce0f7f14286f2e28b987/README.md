@@ -1,6 +1,6 @@
 ## ABOUT
 
-_Devyn (they/them; b. 1996) is a striving writer and sound artist with deep interests in technology and media. They received their Bachelors degree from UC Berkeley in Political Economy with a focus on Inequality. They've written for California Management Review, The B-Side, and Mixmag, and created original social media content for Oakland Promise and Harrison House. These days, Devyn's focus is in learning new technologies - Web3, creative computing, hardware design, and sound synthesizers. She is currently working for [DJA Studio](http://danjohnanderson.com/) as a Studio Coordinator and [Sleepy Circuits](https://sleepycircuits.com/) as a Warehouse and Community Lead._
+_Devyn (they/them; b. 1996) is a striving writer and sound artist with deep interests in technology and media. They received their Bachelors degree from UC Berkeley in Political Economy with a focus on Inequality. They've written for California Management Review, The B-Side, and Mixmag, and created original social media content for Oakland Promise and Harrison House. These days, Devyn's focus is in learning new technologies - Web3, creative computing, hardware design, and sound synthesizers. They are currently working for [DJA Studio](http://danjohnanderson.com/) as a Studio Coordinator and [Sleepy Circuits](https://sleepycircuits.com/) as a Warehouse and Community Lead._
 
 
 ## WRITING
