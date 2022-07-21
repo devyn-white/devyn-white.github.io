@@ -38,6 +38,9 @@ _Devyn (they/them; b. 1996) is a striving artist, currently living in Yucca Vall
 
 [Innovation in urban cities](https://cmr.berkeley.edu/2017/01/smart-cities/)
 
+[Synthesizer Manual Changes](https://github.com/devyn-white/devyn-white.github.io/files/9163111/Manual.Changes.pdf)
+
+
 
 ## SOCIAL MEDIA
 
