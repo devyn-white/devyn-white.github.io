@@ -53,10 +53,19 @@ _Devyn (she/they; b. 1996) is a striving artist, currently living in Yucca Valle
 
 ## ELECTRONICS
 
-_Coming soon..._
+
+[Arudino 1](https://user-images.githubusercontent.com/88110852/180319932-614f2d8b-7f34-4ba5-8e3f-78b998be7961.mov)
+
+[Arduino 2](https://user-images.githubusercontent.com/88110852/180319968-8cbd319c-ed98-414a-8920-e1f8617b03e4.mov)
+
+[Arduino 3](https://user-images.githubusercontent.com/88110852/180319995-cd805f1a-f963-4324-8969-01d896b87d85.mov)
+
+[Arduino 4](https://user-images.githubusercontent.com/88110852/180320054-e333349d-e9c1-4167-911e-ae8f9193ddcc.mov)
+
+[Arduino 5](https://user-images.githubusercontent.com/88110852/180320072-c1f0759e-5773-4e82-8e6f-bb334d20efe4.mov)
+
+[Arduino 6](https://user-images.githubusercontent.com/88110852/180320094-5334db9e-fd0c-482d-ac01-a57527ed755f.mov)
 
 ## SOUND
 
-_Coming soon..._
-
-[Soundcloud](https://soundcloud.com/devoidivine)
+[pre-emdr live](https://soundcloud.com/devoidivine/pre-emdr-live?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
