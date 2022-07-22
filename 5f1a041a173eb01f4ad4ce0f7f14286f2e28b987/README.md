@@ -6,7 +6,7 @@ _Devyn (they/them; b. 1996) is a writer and sound artist from California with de
 ## WRITING
 
 
-### creative
+### *creative*
 
 [Dweller is reclaiming techno's black heritage](https://mixmag.net/feature/dweller-festival-new-york-techno-black-heritage-review)
 
@@ -15,7 +15,7 @@ _Devyn (they/them; b. 1996) is a writer and sound artist from California with de
 [Divin' into disco](https://berkeleybside.com/divin-into-disco-in-2018/)
 
 
-### copywriting
+### *copywriting*
 
 [Carnaval de Bahidorá is a hidden gem in Mexico's jungle](https://mixmag.net/feature/carnaval-de-bahidora-hidden-gem-mexico)
 
@@ -34,7 +34,7 @@ _Devyn (they/them; b. 1996) is a writer and sound artist from California with de
 [Prime Go is the innovative, battery-powered controller from Denon DJ](https://mixmag.net/read/prime-go-denon-dj-news)
 
 
-### technical
+### *technical*
 
 [Innovation in urban cities](https://cmr.berkeley.edu/2017/01/smart-cities/)
 
@@ -45,7 +45,7 @@ _Devyn (they/them; b. 1996) is a writer and sound artist from California with de
 ## SOCIAL MEDIA
 
 
-### advertising
+### *advertising*
 
 [SoundCheckEarth Sponsors](https://www.instagram.com/p/CbtD2czvQco/)
 
@@ -55,7 +55,7 @@ _Devyn (they/them; b. 1996) is a writer and sound artist from California with de
 
 
 
-### informative
+### *informative*
 
 [AAPI Data Disaggregation](https://www.instagram.com/p/CPZZMRnBBni/)
 
