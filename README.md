@@ -1,12 +1,12 @@
 ## ABOUT
 
-_Devyn (they/them; b. 1996) is a striving artist, currently living in Yucca Valley, California, with an interest in sound, technology, and media. She received her Bachelors degree from UC Berkeley in Political Economy with a focus on Inequality. She has written for California Management Review, The B-Side, and Mixmag, and created original social media content for Oakland Promise and Harrison House. These days, Devyn's focus is learning the ins and outs of music software and hardware and diving further into sound creation via standalone synthesizers and eurorack. She is currently working for [DJA Studio](http://danjohnanderson.com/) as a Studio Coordinator and [Sleepy Circuits](https://sleepycircuits.com/) as a Warehouse and Community Lead._
+Devyn (they/them; b. 1996) is a writer and sound artist from California with deep interests in technology and media. They received their Bachelors degree from UC Berkeley in Political Economy with a focus on Inequality. They've written for California Management Review, The B-Side, and Mixmag, and created original social media content for Oakland Promise and Harrison House. These days, Devyn's focus is in learning new technologies - Web3, creative computing, hardware design, and sound synthesizers. They are currently working for [DJA Studio](http://danjohnanderson.com/) as a Studio Coordinator and [Sleepy Circuits](https://sleepycircuits.com/) as a Warehouse and Community Lead.
 
 
 ## WRITING
 
 
-### Creative
+### *creative*
 
 [Dweller is reclaiming techno's black heritage](https://mixmag.net/feature/dweller-festival-new-york-techno-black-heritage-review)
 
@@ -15,7 +15,7 @@ _Devyn (they/them; b. 1996) is a striving artist, currently living in Yucca Vall
 [Divin' into disco](https://berkeleybside.com/divin-into-disco-in-2018/)
 
 
-### Copywriting
+### *copywriting*
 
 [Carnaval de Bahidorá is a hidden gem in Mexico's jungle](https://mixmag.net/feature/carnaval-de-bahidora-hidden-gem-mexico)
 
@@ -34,15 +34,18 @@ _Devyn (they/them; b. 1996) is a striving artist, currently living in Yucca Vall
 [Prime Go is the innovative, battery-powered controller from Denon DJ](https://mixmag.net/read/prime-go-denon-dj-news)
 
 
-### Technical
+### *technical*
 
 [Innovation in urban cities](https://cmr.berkeley.edu/2017/01/smart-cities/)
+
+[Synthesizer Manual Changes](https://github.com/devyn-white/devyn-white.github.io/files/9163111/Manual.Changes.pdf)
+
 
 
 ## SOCIAL MEDIA
 
 
-### Advertising
+### *advertising*
 
 [SoundCheckEarth Sponsors](https://www.instagram.com/p/CbtD2czvQco/)
 
@@ -52,7 +55,7 @@ _Devyn (they/them; b. 1996) is a striving artist, currently living in Yucca Vall
 
 
 
-### Informative
+### *informative*
 
 [AAPI Data Disaggregation](https://www.instagram.com/p/CPZZMRnBBni/)
 
