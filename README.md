@@ -34,7 +34,7 @@ Devyn (they/them; b. 1996) is a writer and sound artist from California with dee
 [Prime Go is the innovative, battery-powered controller from Denon DJ](https://mixmag.net/read/prime-go-denon-dj-news)
 
 
-### *technical*
+### *technical/educational*
 
 [Innovation in urban cities](https://cmr.berkeley.edu/2017/01/smart-cities/)
 
@@ -55,7 +55,7 @@ Devyn (they/them; b. 1996) is a writer and sound artist from California with dee
 
 
 
-### *informative*
+### *educational*
 
 [AAPI Data Disaggregation](https://www.instagram.com/p/CPZZMRnBBni/)
 
