@@ -38,7 +38,7 @@ Devyn (they/them; b. 1996) is a writer and sound artist from California with dee
 
 [Innovation in urban cities](https://cmr.berkeley.edu/2017/01/smart-cities/)
 
-[Synthesizer Manual Changes](https://github.com/devyn-white/devyn-white.github.io/files/9163111/Manual.Changes.pdf)
+[Manual Changes](https://github.com/devyn-white/devyn-white.github.io/files/9163111/Manual.Changes.pdf)
 
 
 
