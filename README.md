@@ -15,7 +15,7 @@ Devyn (they/them; b. 1996) is a writer and sound artist from California with dee
 [Divin' into disco](https://berkeleybside.com/divin-into-disco-in-2018/)
 
 
-### *copywriting*
+### *advertising*
 
 [Carnaval de Bahidorá is a hidden gem in Mexico's jungle](https://mixmag.net/feature/carnaval-de-bahidora-hidden-gem-mexico)
 
@@ -34,11 +34,9 @@ Devyn (they/them; b. 1996) is a writer and sound artist from California with dee
 [Prime Go is the innovative, battery-powered controller from Denon DJ](https://mixmag.net/read/prime-go-denon-dj-news)
 
 
-### *technical/educational*
+### *educational*
 
 [Innovation in urban cities](https://cmr.berkeley.edu/2017/01/smart-cities/)
-
-[Manual Changes](https://github.com/devyn-white/devyn-white.github.io/files/9163111/Manual.Changes.pdf)
 
 
 
