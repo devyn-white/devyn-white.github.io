@@ -1,6 +1,6 @@
 ## ABOUT
 
-Devyn (she/they; b. 1996) is a writer and sound artist from California with deep interests in technology and media. They received their Bachelors degree from UC Berkeley in Political Economy with a focus on Inequality. They've written for California Management Review, The B-Side, and Mixmag, and created original social media content for Oakland Promise and Harrison House. These days, Devyn's focus is in learning new technologies - Web3, creative computing, hardware design, and sound synthesizers. They are currently working for [DJA Studio](http://danjohnanderson.com/) as a Studio Coordinator and [Sleepy Circuits](https://sleepycircuits.com/) as a Warehouse and Community Lead.
+Devyn (she/they; b. 1996) is a writer and sound artist from California with deep interests in technology and media. They received their Bachelors degree from UC Berkeley in Political Economy with a focus on Inequality. They've written for California Management Review, The B-Side, and Mixmag, and created original social media content for Oakland Promise and Harrison House. They are currently working for [DJA Studio](http://danjohnanderson.com/) as a Studio Coordinator and [Sleepy Circuits](https://sleepycircuits.com/) as a Warehouse and Community Lead.
 
 
 ## WRITING
@@ -21,9 +21,12 @@ Devyn (she/they; b. 1996) is a writer and sound artist from California with deep
 
 [Costa Rica's BPM Festival brought the heat and didn't disappoint](https://mixmag.net/feature/bpm-festival-didnt-disappoint)
 
+
+### *news*
+
 [Go behind the scenes of 'Uncut Gems' soundtrack with Daniel Lopatin and Moog](https://mixmag.net/read/behind-the-scenes-of-uncut-gems-soundtrack-news/)
 
-[Cityfox Live returns to Brookklyn for second edition](https://mixmag.net/read/cityfox-live-returns-to-brooklyn-news/)
+[Cityfox Live returns to Brooklyn for second edition](https://mixmag.net/read/cityfox-live-returns-to-brooklyn-news/)
 
 [The BPM Festival announces full line-up for 2020](https://mixmag.net/read/bpm-festival-full-line-up-2020-news/)
 
