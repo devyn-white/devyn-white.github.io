@@ -1,6 +1,6 @@
 ## ABOUT
 
-Devyn (she/they; b. 1996) is a writer and sound artist from California with deep interests in technology and media. They received their Bachelors degree from UC Berkeley in Political Economy with a focus on Inequality. They've written for California Management Review, The B-Side, and Mixmag, and created original social media content for Oakland Promise and Harrison House. They are currently working for [DJA Studio](http://danjohnanderson.com/) as a Studio Coordinator and [Sleepy Circuits](https://sleepycircuits.com/) as a Warehouse and Community Lead.
+Devyn (she/they; b. 1996) is a writer and sound artist from California with deep interests in technology and media. She received their Bachelors degree from UC Berkeley in Political Economy with a focus on Inequality. She's written for California Management Review, The B-Side, and Mixmag, and created original social media content for Oakland Promise and Harrison House. She is currently working for [DJA Studio](http://danjohnanderson.com/) as the Studio Coordinator and [Sleepy Circuits](https://sleepycircuits.com/) as the Warehouse and Assembly Lead.
 
 
 ## WRITING
@@ -11,8 +11,6 @@ Devyn (she/they; b. 1996) is a writer and sound artist from California with deep
 [Dweller is reclaiming techno's black heritage](https://mixmag.net/feature/dweller-festival-new-york-techno-black-heritage-review)
 
 [Flume: "I'm happy to be called EDM... Call me whatever you want](https://mixmag.net/feature/flume-edm-interview)
-
-[Divin' into disco](https://berkeleybside.com/divin-into-disco-in-2018/)
 
 
 ### *advertising*
@@ -35,11 +33,6 @@ Devyn (she/they; b. 1996) is a writer and sound artist from California with deep
 [Apple's new Airpods Pro will reinvent your day-to-day life](https://mixmag.net/read/apple-airpods-reinvent-day-to-day-life-news)
 
 [Prime Go is the innovative, battery-powered controller from Denon DJ](https://mixmag.net/read/prime-go-denon-dj-news)
-
-
-### *educational*
-
-[Innovation in urban cities](https://cmr.berkeley.edu/2017/01/smart-cities/)
 
 
 
@@ -69,8 +62,6 @@ Devyn (she/they; b. 1996) is a writer and sound artist from California with deep
 [Effective Note Taking](https://www.instagram.com/p/CGS_G5XhqZh/)
 
 [Using Planners and Calendars](https://www.instagram.com/p/CGBcRFlBadE/)
-
-[Devyn's Virtual Office Hours](https://www.instagram.com/p/CFILpKFhr2u/)
 
 [10 Tips to Keep You Well](https://www.instagram.com/p/CEZyY3mhCYl/)
 
